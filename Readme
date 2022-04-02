@@ -1,0 +1,9 @@
+#Install NVIM
+
+# Runtime
+check runtime environment
+VIMRUNTIME="$(/Users/rohitsharma/Downloads/nvim-osx64/bin/nvim --clean --headless --cmd 'echo $VIMRUNTIME|q')"
+
+#Theme
+Move gruvbox.color to nvim-osx64/share/nvim/runtime/colors
+
