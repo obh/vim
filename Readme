@@ -8,3 +8,6 @@ VIMRUNTIME="$(/Users/rohitsharma/Downloads/nvim-osx64/bin/nvim --clean --headles
 #Theme
 Move gruvbox.color to nvim-osx64/share/nvim/runtime/colors
 
+#goodreads
+
+https://thevaluable.dev/vim-runtime-guide-example/#:~:text=%3Ahelp%20%24VIMRUNTIME-,The%20Runtime%20Path,the%20command%20%3Aset%20runtimepath%3F%20.
